@@ -18,6 +18,8 @@ Active city government Github Organizations
 
 ### Transportation
 
+ - [Bikespace.ca](https://www.bikespace.ca/): Tag, photograph, and report inadequate bike parking in the City of Toronto ([code](https://gitlab.com/bikespace/Bicycle-parking))
+ 
 ### Mapping
  - [ZoLa](https://github.com/NYCPlanning/labs-zola) - Interactive Map of NYC's Zoning and Land Use
 
