@@ -14,6 +14,7 @@ Active city government Github Organizations
  - New York City, USA
    * [NYC Planning](https://github.com/NYCPlanning)
  - [Ottawa, Canada](https://github.com/cityofottawa)
+ - [Sault Ste. Marie, Canada](https://github.com/cityssm)
  - [Toronto, Canada](https://github.com/CityofToronto)
 
 ### Transportation
